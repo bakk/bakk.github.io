@@ -1,0 +1,3 @@
+[submodule "biked3"]
+	path = biked3
+	url = https://github.com/bakk/biked3.git
