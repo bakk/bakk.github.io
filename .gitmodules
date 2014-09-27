@@ -1,3 +1,6 @@
 [submodule "biked3"]
 	path = biked3
 	url = https://github.com/bakk/biked3.git
+[submodule "ol3playground"]
+	path = ol3playground
+	url = https://github.com/bakk/ol3playground.git
