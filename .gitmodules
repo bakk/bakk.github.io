@@ -4,3 +4,6 @@
 [submodule "ol3playground"]
 	path = ol3playground
 	url = https://github.com/bakk/ol3playground.git
+[submodule "joggl"]
+	path = joggl
+	url = https://github.com/bakk/joggl.git
